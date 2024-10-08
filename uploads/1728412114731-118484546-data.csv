@@ -1,0 +1,4 @@
+amount,date,category,paymentMethod,description
+250,2024-09-01,Groceries,Cash,Monthly grocery shopping
+100,2024-09-05,Transport,Credit Card,Fuel for car
+60,2024-09-10,Entertainment,Debit Card,Movie tickets
